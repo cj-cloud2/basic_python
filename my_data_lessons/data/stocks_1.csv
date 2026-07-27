@@ -1,0 +1,17 @@
+Symbol,Name,Sector,Price,Volume
+AAPL,Apple Inc,Technology,182.50,75234100
+MSFT,Microsoft Corp,Technology,415.20,22187600
+GOOGL,Alphabet Inc,Technology,175.80,18432000
+AMZN,Amazon.com Inc,Consumer Cyclical,198.40,32145700
+JPM,JPMorgan Chase,Financial,198.70,9823400
+BAC,Bank of America,Financial,38.90,45123800
+WMT,Walmart Inc,Consumer Defensive,68.20,12345600
+PG,Procter Gamble,Consumer Defensive,158.30,6789200
+JNJ,Johnson Johnson,Healthcare,147.60,8234500
+PFE,Pfizer Inc,Healthcare,28.40,55234100
+XOM,Exxon Mobil,Energy,112.80,17823400
+CVX,Chevron Corp,Energy,154.20,11234500
+NEE,NextEra Energy,Utilities,72.40,9123400
+DUK,Duke Energy,Utilities,98.60,4567800
+CAT,Caterpillar Inc,Industrials,385.50,3234500
+GE,General Electric,Industrials,162.40,14567800

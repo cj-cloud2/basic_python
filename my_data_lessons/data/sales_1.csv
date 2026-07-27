@@ -1,0 +1,17 @@
+Manager,Rep,Product,Quantity,Price,Status
+Rahul,Alice,Laptop,2,80000,won
+Rahul,Alice,Phone,5,20000,pending
+Rahul,Alice,Tablet,1,30000,declined
+Rahul,Bob,Laptop,3,80000,won
+Rahul,Bob,Phone,2,20000,presented
+Rahul,Bob,Tablet,4,30000,won
+Rahul,Bob,Laptop,1,80000,declined
+Priya,Carol,Phone,6,20000,won
+Priya,Carol,Tablet,2,30000,pending
+Priya,Carol,Laptop,1,80000,won
+Priya,Dave,Phone,3,20000,presented
+Priya,Dave,Tablet,5,30000,won
+Priya,Dave,Laptop,2,80000,pending
+Priya,Dave,Phone,1,20000,declined
+Rahul,Alice,Laptop,2,80000,presented
+Priya,Carol,Tablet,3,30000,won
